@@ -26,3 +26,6 @@ Technically, this implementation involves several components. The chatbot uses N
 
 In summary, API integration and data visualization transform a simple rule-based chatbot into a functional, intelligent assistant. These features enable the bot to provide real-time, relevant, and easy-to-understand information to users. They also open doors for building more advanced systems, including voice assistants, mobile apps, and web dashboards. As more APIs and visualization tools become available, the possibilities for expanding chatbot functionality continue to grow, making it a valuable tool across education, business, and personal productivity.
 
+OUTPUT:-
+
+![Image](https://github.com/user-attachments/assets/1afd74cd-b685-41c7-b685-08ecb8d139be)
